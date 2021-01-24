@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Aserv"
         mc:Ignorable="d"
         FontFamily="Arial Black"
-    Title="Услуги авто сервиса" 
+        Title="Услуги авто сервиса" 
         x:Name="Root"
         MinHeight="300" MinWidth="300"
         Height="450" Width="800">
@@ -53,14 +53,18 @@
 
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate>
-                            <!-- TextBlock поддерживает перечеркивание -->
                             <TextBlock 
                 TextDecorations="{Binding CostTextDecoration}"
                 Text="{Binding CostString}"/>
                         </DataTemplate>
                     </DataGridTemplateColumn.CellTemplate>
                 </DataGridTemplateColumn>
-                
+
+                <DataGridTextColumn 
+                    Width="150"
+                    Header="Стоимость со скидкой"
+                    Binding="{Binding CostWithDiscount}"/>
+
                 <DataGridTextColumn 
             Width="150"
             Header="Продолжительность"
