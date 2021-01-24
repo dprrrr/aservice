@@ -47,15 +47,17 @@ namespace Aserv
         }
 
         // ну и сразу пишем геттер на наличие скидки
+
         public Boolean HasDiscount
         {
             get
             {
-                return Discount > 0;
+                return Discount == 0;
             }
         }
 
         // и перечёркивание старой цены
+
         public string CostTextDecoration
         {
             get
@@ -87,6 +89,7 @@ namespace Aserv
             get { return _ServiceList; }
             set { _ServiceList = value; }
         }
+
         private Boolean _IsAdminMode = false;
 
         public event PropertyChangedEventHandler PropertyChanged;
