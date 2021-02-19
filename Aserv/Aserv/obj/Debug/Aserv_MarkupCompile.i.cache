@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\dprrr\source\repos\Aserv\Aserv\obj\Debug\
+C:\Git\aservice\Aserv\Aserv\obj\Debug\
 Aserv
 none
 false
 DEBUG;TRACE
-C:\Users\dprrr\source\repos\Aserv\Aserv\App.xaml
-2-1983797629
+C:\Git\aservice\Aserv\Aserv\App.xaml
+3-973684700
 2-210599271
-22-711880772
-18-2050075123
-MainWindow.xaml;windows\InputBoxWindow.xaml;
+23308181569
+182123160684
+MainWindow.xaml;windows\InputBoxWindow.xaml;windows\ServiceWindow.xaml;
 
 True
 
