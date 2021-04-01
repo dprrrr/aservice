@@ -1,0 +1,136 @@
+C:\Users\dprrr\source\repos\Aserv\Aserv\bin\Debug\Aserv.exe.config
+C:\Users\dprrr\source\repos\Aserv\Aserv\bin\Debug\Aserv.exe
+C:\Users\dprrr\source\repos\Aserv\Aserv\bin\Debug\Aserv.pdb
+C:\Users\dprrr\source\repos\Aserv\Aserv\bin\Debug\EntityFramework.dll
+C:\Users\dprrr\source\repos\Aserv\Aserv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dprrr\source\repos\Aserv\Aserv\bin\Debug\EntityFramework.xml
+C:\Users\dprrr\source\repos\Aserv\Aserv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dprrr\source\repos\Aserv\Aserv\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\dprrr\source\repos\Aserv\Aserv\obj\Debug\Aserv.csprojAssemblyReference.cache
+C:\Users\dprrr\source\repos\Aserv\Aserv\obj\Debug\MainWindow.g.cs
+C:\Users\dprrr\source\repos\Aserv\Aserv\obj\Debug\App.g.cs
+C:\Users\dprrr\source\repos\Aserv\Aserv\obj\Debug\Aserv_Content.g.cs
+C:\Users\dprrr\source\repos\Aserv\Aserv\obj\Debug\Aserv_MarkupCompile.cache
+C:\Users\dprrr\source\repos\Aserv\Aserv\obj\Debug\Aserv_MarkupCompile.lref
+C:\Users\dprrr\source\repos\Aserv\Aserv\obj\Debug\App.baml
+C:\Users\dprrr\source\repos\Aserv\Aserv\obj\Debug\MainWindow.baml
+C:\Users\dprrr\source\repos\Aserv\Aserv\obj\Debug\Aserv.g.resources
+C:\Users\dprrr\source\repos\Aserv\Aserv\obj\Debug\Aserv.Properties.Resources.resources
+C:\Users\dprrr\source\repos\Aserv\Aserv\obj\Debug\Aserv.csproj.GenerateResource.cache
+C:\Users\dprrr\source\repos\Aserv\Aserv\obj\Debug\Aserv.csproj.CoreCompileInputs.cache
+C:\Users\dprrr\source\repos\Aserv\Aserv\obj\Debug\Aserv.csproj.CopyComplete
+C:\Users\dprrr\source\repos\Aserv\Aserv\obj\Debug\Aserv.exe
+C:\Users\dprrr\source\repos\Aserv\Aserv\obj\Debug\Aserv.pdb
+C:\Users\dprrr\source\repos\Aserv\Aserv\obj\Debug\windows\InputBoxWindow.g.cs
+C:\Users\dprrr\source\repos\Aserv\Aserv\obj\Debug\windows\InputBoxWindow.baml
+C:\Git\aservice\Aserv\Aserv\bin\Debug\Aserv.exe.config
+C:\Git\aservice\Aserv\Aserv\bin\Debug\Aserv.exe
+C:\Git\aservice\Aserv\Aserv\bin\Debug\Aserv.pdb
+C:\Git\aservice\Aserv\Aserv\bin\Debug\EntityFramework.dll
+C:\Git\aservice\Aserv\Aserv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Git\aservice\Aserv\Aserv\bin\Debug\EntityFramework.xml
+C:\Git\aservice\Aserv\Aserv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Git\aservice\Aserv\Aserv\bin\Debug\ru\EntityFramework.resources.dll
+C:\Git\aservice\Aserv\Aserv\obj\Debug\Aserv.csprojAssemblyReference.cache
+C:\Git\aservice\Aserv\Aserv\obj\Debug\MainWindow.g.cs
+C:\Git\aservice\Aserv\Aserv\obj\Debug\windows\InputBoxWindow.g.cs
+C:\Git\aservice\Aserv\Aserv\obj\Debug\App.g.cs
+C:\Git\aservice\Aserv\Aserv\obj\Debug\Aserv_Content.g.cs
+C:\Git\aservice\Aserv\Aserv\obj\Debug\Aserv_MarkupCompile.cache
+C:\Git\aservice\Aserv\Aserv\obj\Debug\Aserv_MarkupCompile.lref
+C:\Git\aservice\Aserv\Aserv\obj\Debug\App.baml
+C:\Git\aservice\Aserv\Aserv\obj\Debug\MainWindow.baml
+C:\Git\aservice\Aserv\Aserv\obj\Debug\windows\InputBoxWindow.baml
+C:\Git\aservice\Aserv\Aserv\obj\Debug\Aserv.g.resources
+C:\Git\aservice\Aserv\Aserv\obj\Debug\Aserv.Properties.Resources.resources
+C:\Git\aservice\Aserv\Aserv\obj\Debug\Aserv.csproj.GenerateResource.cache
+C:\Git\aservice\Aserv\Aserv\obj\Debug\Aserv.csproj.CoreCompileInputs.cache
+C:\Git\aservice\Aserv\Aserv\obj\Debug\Aserv.csproj.CopyComplete
+C:\Git\aservice\Aserv\Aserv\obj\Debug\Aserv.exe
+C:\Git\aservice\Aserv\Aserv\obj\Debug\Aserv.pdb
+E:\Git\autoservice\Aserv\bin\Debug\Aserv.exe.config
+E:\Git\autoservice\Aserv\bin\Debug\Aserv.exe
+E:\Git\autoservice\Aserv\bin\Debug\Aserv.pdb
+E:\Git\autoservice\Aserv\bin\Debug\EntityFramework.dll
+E:\Git\autoservice\Aserv\bin\Debug\EntityFramework.SqlServer.dll
+E:\Git\autoservice\Aserv\bin\Debug\EntityFramework.xml
+E:\Git\autoservice\Aserv\bin\Debug\EntityFramework.SqlServer.xml
+E:\Git\autoservice\Aserv\bin\Debug\ru\EntityFramework.resources.dll
+E:\Git\autoservice\Aserv\obj\Debug\MainWindow.g.cs
+E:\Git\autoservice\Aserv\obj\Debug\ServiceWindow.g.cs
+E:\Git\autoservice\Aserv\obj\Debug\windows\InputBoxWindow.g.cs
+E:\Git\autoservice\Aserv\obj\Debug\windows\ServiceWindow.g.cs
+E:\Git\autoservice\Aserv\obj\Debug\App.g.cs
+E:\Git\autoservice\Aserv\obj\Debug\Aserv_Content.g.cs
+E:\Git\autoservice\Aserv\obj\Debug\Aserv_MarkupCompile.cache
+E:\Git\autoservice\Aserv\obj\Debug\Aserv_MarkupCompile.lref
+E:\Git\autoservice\Aserv\obj\Debug\App.baml
+E:\Git\autoservice\Aserv\obj\Debug\MainWindow.baml
+E:\Git\autoservice\Aserv\obj\Debug\windows\InputBoxWindow.baml
+E:\Git\autoservice\Aserv\obj\Debug\windows\ServiceWindow.baml
+E:\Git\autoservice\Aserv\obj\Debug\ServiceWindow.baml
+E:\Git\autoservice\Aserv\obj\Debug\Aserv.g.resources
+E:\Git\autoservice\Aserv\obj\Debug\Aserv.Properties.Resources.resources
+E:\Git\autoservice\Aserv\obj\Debug\Aserv.csproj.GenerateResource.cache
+E:\Git\autoservice\Aserv\obj\Debug\Aserv.csproj.CoreCompileInputs.cache
+E:\Git\autoservice\Aserv\obj\Debug\Aserv.csproj.CopyComplete
+E:\Git\autoservice\Aserv\obj\Debug\Aserv.exe
+E:\Git\autoservice\Aserv\obj\Debug\Aserv.pdb
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\bin\Debug\Aserv.exe.config
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\bin\Debug\Aserv.exe
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\bin\Debug\Aserv.pdb
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\Aserv.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\windows\InputBoxWindow.g.cs
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\windows\ServiceWindow.g.cs
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\App.g.cs
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\Aserv_Content.g.cs
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\Aserv_MarkupCompile.cache
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\Aserv_MarkupCompile.lref
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\App.baml
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\windows\InputBoxWindow.baml
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\windows\ServiceWindow.baml
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\Aserv.g.resources
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\Aserv.Properties.Resources.resources
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\Aserv.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\Aserv.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\Aserv.csproj.CopyComplete
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\Aserv.exe
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\Aserv.pdb
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\windows\ClientServiceWindow.g.cs
+C:\Users\User\Downloads\Autoserv-master (1)\Autoserv-master\Aserv\obj\Debug\windows\ClientServiceWindow.baml
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\bin\Debug\Aserv.exe.config
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\bin\Debug\Aserv.exe
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\bin\Debug\Aserv.pdb
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\Aserv.csprojAssemblyReference.cache
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\windows\ClientServiceWindow.g.cs
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\windows\InputBoxWindow.g.cs
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\windows\ServiceWindow.g.cs
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\App.g.cs
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\Aserv_Content.g.cs
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\Aserv_MarkupCompile.cache
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\Aserv_MarkupCompile.lref
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\App.baml
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\windows\ClientServiceWindow.baml
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\windows\InputBoxWindow.baml
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\windows\ServiceWindow.baml
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\Aserv.g.resources
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\Aserv.Properties.Resources.resources
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\Aserv.csproj.GenerateResource.cache
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\Aserv.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\Aserv.csproj.CopyComplete
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\Aserv.exe
+C:\Users\User\Downloads\aservice-master\aservice-master\Aserv\obj\Debug\Aserv.pdb
